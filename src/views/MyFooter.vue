@@ -8,10 +8,10 @@
         </div>
         <div class="d-flex flex-row justify-content-center">
             <div>
-                <a href=""><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.instagram.com/paul.sadio.5/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
             </div>
             <div class="mx-5">
-                <a href=""><i class="fa-brands fa-facebook"></i></a>
+                <a href="https://www.facebook.com/paul.sadio.5" target="_blank"><i class="fa-brands fa-facebook"></i></a>
             </div>
             <div>
                 <a href="mailto:paul.chris.sadio@gmail.com?Subject=subject message" target="_blank"><i class="fa-solid fa-envelope"></i></a>
